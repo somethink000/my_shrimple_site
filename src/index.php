@@ -17,14 +17,17 @@
    
     <body class="body blur">
 
-    
-        <?php for ($i = 1; $i <= 100; $i++) { ?>   
-            <div class="circle-container">
-                <div class="circle"></div>
-            </div>
-        <?php } ?>
+        <div class="particles_container">
+            <?php for ($i = 1; $i <= 100; $i++) { ?>   
+                <div class="circle-container">
+                    <div class="circle"></div>
+                </div>
+            <?php } ?>
+        </div>
 
-
+        <!-- <div class="test_base">
+            <div class="test"></div>
+        </div> -->
 
         <div class="container">
     
