@@ -8,7 +8,7 @@
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>none</title>
+        <title>About</title>
         <link rel="stylesheet" href="/style/style.css">
     </head>
 
@@ -35,8 +35,15 @@
                 <img class="circle-image" src="/assets/myface.jpg"/>
                 <h1 class="title">Some</h1>
                 <h1 class="txt">I'm just another creator who love make things</h1>
-            
-                <a href=""></a>
+                
+                <div class="circle_links">
+                    <a href=""><img class="link-image" src="/assets/sketchfab.svg"></a>
+                    <a href=""><img class="link-image" src="/assets/steam.svg"></a>
+                    <a href=""><img class="link-image" src="/assets/youtube.svg"></a>
+                    <a href=""><img class="link-image" src="/assets/github.svg"></a>
+
+                </div>
+                
             </div>
             
         </div>

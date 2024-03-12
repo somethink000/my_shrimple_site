@@ -5,3 +5,11 @@
     flex-direction: column;
     
 }
+
+.circle_links {
+    padding-top: 10px;
+    /* width: 100%;
+    justify-content: center;
+    flex-direction: row;    */
+}
+
